@@ -19,4 +19,6 @@ Aspiring to find my place in life. MIMUW (mathematics, mechanics and informatics
 
 I intend to write a blog about things that passionate me in my current state of mind (which tends to change a lot). I like thinking about problems, talking to people and have an inner urge to help those around me.
 
-Don't hesitate to hit me up ٩(^ᗜ^ )و ´-
+Why did I decide to use jekyll to build this website: Cause I'm a huge fan of Karpathy's work and (not getting around that statement) I'm this little boy that mimics what the older boys do
+
+Don't hesitate to hit me up with any questions ٩(^ᗜ^ )و ´-
