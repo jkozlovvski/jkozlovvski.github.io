@@ -9,9 +9,9 @@
       "name": "Mim solutions",
       "position": "Junior data scientist",
       "url": "https://www.mim-solutions.ai",
-      "startDate": "01.02.2023",
-      "endDate": "01.06.2023",
-      "highlights": ["Contributed to a project aimed at matching tweets with corresponding articles, which culminated in a paper submission. My responsibilities included implementing a LDA baseline model and developing a PyTorch implementation for the primary model. The architecture of our model was similar to Open AI's CLIP architecture", "Contributed to work flow of other teams by helping with incorporation of tools such as: Hydra, pytorch ligtning, docker, ruff", "Helped with conceptual work when working on theoretical foundations of projects"]
+      "startDate": "2023-02-01",
+      "endDate": "2023-06-06",
+      "highlights": ["Contributed to a project aimed at matching tweets with corresponding articles, which culminated in a paper submission. My responsibilities included implementing a LDA baseline model and developing a PyTorch implementation for the primary model. The architecture of our model was similar to Open AI's CLIP architecture", "Contributed to work flow of other teams by helping with incorporation of tools such as: Hydra, pytorch ligtning, docker and ruff", "Helped with conceptual work when working on theoretical foundations of projects"]
     }
   ],
   "education": [
@@ -20,14 +20,14 @@
       "studyType": "BSc mathematics",
       "startDate": "2019",
       "endDate": "2022",
-      "Featured courses": ["Probability theory I, Probability theory II, Functional analysis, Statistics, Deep learning, Natural league processing, Reinforcement learning"]
+      "courses": ["Probability theory I, Probability theory II, Functional analysis, Statistics, Deep learning, Natural league processing, Reinforcement learning"]
     },
     {
       "institution": "University of Warsaw",
       "studyType": "BSc informatics",
       "startDate": "2020",
       "endDate": "2023",
-      "Featured courses": ["Concurrent programming, Algorithms and Data structures, Databases, Object oriented programming, C++/Rust course, Operating systems"]
+      "courses": ["Concurrent programming, Algorithms and Data structures, Databases, Object oriented programming, C++/Rust course, Operating systems"]
     },
     {
       "institution": "Medical university of Lodz",
