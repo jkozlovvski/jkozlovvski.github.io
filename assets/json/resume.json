@@ -28,14 +28,14 @@
       "studyType": "BSc mathematics",
       "startDate": "2019",
       "endDate": "2022",
-      "courses": ["Probability theory I, Probability theory II, Functional analysis, Statistics, Deep learning, Natural league processing, Reinforcement learning"]
+      "courses": ["Foudations of mathematics, Linear algebra I/II, Mathematical analysis I/II/III/IV, Topology, Differential equations, Probability theory I, Probability theory II, Functional analysis, Statistics, Deep learning, Natural league processing, Reinforcement learning"]
     },
     {
       "institution": "University of Warsaw",
       "studyType": "BSc informatics",
       "startDate": "2020",
       "endDate": "2023",
-      "courses": ["Concurrent programming, Algorithms and Data structures, Databases, Object oriented programming, C++/Rust course, Operating systems"]
+      "courses": ["Introduction to programming, Discrete mathematics, Concurrent programming, Algorithms and Data structures, Databases, Object oriented programming, C++/Rust course, Operating systems"]
     },
     {
       "institution": "Medical university of Lodz",
