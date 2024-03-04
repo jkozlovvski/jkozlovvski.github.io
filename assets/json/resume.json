@@ -1,19 +1,8 @@
 {
   "basics": {
-    "name": "Julian",
-    "label": "🐛",
-    "image": "",
+    "name": "Julian Kozlowski",
     "email": "Julian.Kozlowski99@gmail.com",
-    "phone": "",
-    "url": "https://jkozlowski.com",
-    "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
-    }
+    "url": "https://jkozlowski.com"
   },
   "work": [
     {
@@ -28,36 +17,24 @@
   "education": [
     {
       "institution": "University of Warsaw",
-      "location": "",
-      "url": "",
-      "area": "",
       "studyType": "BSc mathematics",
       "startDate": "2019",
       "endDate": "2022",
-      "score": "",
-      "courses": [""]
+      "Featured courses": ["Probability theory I, Probability theory II, Functional analysis, Statistics, Deep learning, Natural league processing, Reinforcement learning"]
     },
     {
       "institution": "University of Warsaw",
-      "location": "",
-      "url": "",
-      "area": "",
       "studyType": "BSc informatics",
       "startDate": "2020",
       "endDate": "2023",
-      "score": "",
-      "courses": [""]
+      "Featured courses": ["Concurrent programming, Algorithms and Data structures, Databases, Object oriented programming, C++/Rust course, Operating systems"]
     },
     {
       "institution": "Medical university of Lodz",
-      "location": "",
-      "url": "",
-      "area": "",
       "studyType": "Medicine",
       "startDate": "2023",
       "endDate": "ongoing",
-      "score": "",
-      "courses": [""]
+      "courses": ["Anatomy, Histology, Biophysics, Chemistry"]
     }
   ],
   "skills": [
