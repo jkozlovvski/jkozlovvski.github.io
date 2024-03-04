@@ -71,14 +71,19 @@
   ],
   "languages": [
     {
-      "language": "",
-      "fluency": "",
-      "icon": ""
+      "language": "Polish",
+      "fluency": "Native",
+      "icon": "🇵🇱"
     },
     {
-      "language": "",
-      "fluency": "",
-      "icon": ""
+      "language": "English",
+      "fluency": "C1/C2",
+      "icon": "🇬🇧"
+    },
+    {
+      "language": "French",
+      "fluency": "B1",
+      "icon": "🇫🇷"
     }
   ],
   "interests": [
