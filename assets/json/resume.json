@@ -95,8 +95,8 @@
   ],
   "projects": [
     {
-      "name": "",
-      "summary": "",
+      "name": "Continous integration tool",
+      "summary": "This is my attempt on writing continous integration tool, written solely in Rust. It works (sadly) only in local environments and need some preparation from the user - most notably sourcing evironmental variables, more info can be found here: https://github.com/jkozlovvski/CI-rust",
       "highlights": [""],
       "startDate": "",
       "endDate": "",
