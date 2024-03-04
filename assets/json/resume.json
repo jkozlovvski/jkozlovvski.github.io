@@ -28,13 +28,35 @@
   ],
   "education": [
     {
-      "institution": "",
+      "institution": "University of Warsaw",
       "location": "",
       "url": "",
       "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "studyType": "BSc mathematics",
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "University of Warsaw",
+      "location": "",
+      "url": "",
+      "area": "",
+      "studyType": "BSc informatics",
+      "startDate": "2020",
+      "endDate": "2023",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Medical university of Lodz",
+      "location": "",
+      "url": "",
+      "area": "",
+      "studyType": "Medicine",
+      "startDate": "2023",
+      "endDate": "ongoing",
       "score": "",
       "courses": [""]
     }
