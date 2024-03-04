@@ -4,7 +4,6 @@
     "label": "",
     "image": "",
     "email": "Julian.Kozlowski99@gmail.com",
-    "github": "https://github.com/jkozlovvski",
     "phone": "",
     "url": "https://jkozlowski.com",
     "summary": "",
@@ -18,12 +17,12 @@
   },
   "work": [
     {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "name": "Mim solutions",
+      "position": "Junior data scientist",
+      "url": "https://www.mim-solutions.ai",
+      "startDate": "01.02.2023",
+      "endDate": "01.06.2023",
+      "summary": "I contributed to a project aimed at matching tweets with corresponding articles, which culminated in a paper submission. My responsibilities included implementing a LDA baseline model and developing a PyTorch implementation for the primary model. The architecture of our model was similar to Open AI's CLIP architecture",
       "highlights": [""]
     }
   ],
