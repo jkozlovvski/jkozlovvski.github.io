@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Julian",
-    "label": "",
+    "label": "🐛",
     "image": "",
     "email": "Julian.Kozlowski99@gmail.com",
     "phone": "",
@@ -18,7 +18,7 @@
   "work": [
     {
       "name": "Mim solutions",
-      "position": "Junior data scientist",
+      "position": "\n Junior data scientist",
       "url": "https://www.mim-solutions.ai",
       "startDate": "01.02.2023",
       "endDate": "01.06.2023",
