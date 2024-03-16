@@ -18,7 +18,7 @@
       "position": "Backend intern",
       "url": "https://www.iteratorshq.com",
       "startDate": "2022-06-01",
-      "endDate": "2023-09-01",
+      "endDate": "2022-09-01",
       "highlights": ["Assisted in the regular maintenance of the mobile application called Obi, by diagnosing and resolving software bugs to ensure optimal functionality and user experience.", "Utilized a robust stack that included Scala, internal libraries, Akka, and Cats."]
     }
   ],
@@ -28,7 +28,7 @@
       "studyType": "BSc mathematics",
       "startDate": "2019",
       "endDate": "2022",
-      "courses": ["Foudations of mathematics, Linear algebra I/II, Mathematical analysis I/II/III/IV, Topology, Absstract Algebra, Differential equations, Probability theory I/II, Functional analysis, Statistics, Deep learning, Natural league processing, Reinforcement learning, Statistical Analysis, Numerical Analysis"]
+      "courses": ["Foudations of mathematics, Linear algebra I/II, Mathematical analysis I/II/III/IV, Topology, Abstract Algebra, Differential equations, Probability theory I/II, Functional analysis, Statistics, Deep learning, Natural league processing, Reinforcement learning, Statistical Analysis, Numerical Analysis"]
     },
     {
       "institution": "University of Warsaw",
@@ -50,7 +50,7 @@
       "name": "",
       "level": "",
       "icon": "",
-      "keywords": []
+      "keywords": ["Python", "R"]
     }
   ],
   "languages": [
@@ -68,11 +68,6 @@
       "language": "French 🇫🇷",
       "fluency": "B1",
       "icon": "🇫🇷"
-    }
-  ],
-  "interests": [
-    {
-      "keywords": ["Neurosciences"]
     }
   ],
   "projects": [
